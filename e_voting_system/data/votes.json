@@ -1,0 +1,14 @@
+{
+  "VOTE_1": {
+    "voter_id": "V099BDF652CQQ",
+    "candidate_id": "C458166HZXV",
+    "timestamp": "2025-10-26 11:26:19",
+    "vote_hash": "5e3d5bcbeb08d5db0bcea0c1c9e992e672378b5e1b6a8482b9920dc169eb6136"
+  },
+  "VOTE_2": {
+    "voter_id": "V602TWA046VGF",
+    "candidate_id": "C458166HZXV",
+    "timestamp": "2025-10-26 11:29:45",
+    "vote_hash": "e84b576c2ac63f3754b0819dd3d69361dd4c4113216cf05ffded1e6f44911137"
+  }
+}

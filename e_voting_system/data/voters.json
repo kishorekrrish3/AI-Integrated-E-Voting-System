@@ -1,0 +1,18 @@
+{
+  "V602TWA046VGF": {
+    "voter_id": "V602TWA046VGF",
+    "name": "Vaishnavi Selvakumar",
+    "age": 20,
+    "email": "vaishurishi@gmail.com",
+    "registered_at": "2025-10-26 11:25:55",
+    "has_voted": true
+  },
+  "V099BDF652CQQ": {
+    "voter_id": "V099BDF652CQQ",
+    "name": "Kishore P",
+    "age": 20,
+    "email": "kidkrrish3@gmail.com",
+    "registered_at": "2025-10-26 11:25:40",
+    "has_voted": true
+  }
+}
