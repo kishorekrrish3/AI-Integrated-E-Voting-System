@@ -1,6 +1,6 @@
-# 🗳️ AI-Integrated E-Voting System v4.0.0
+# 🗳️ AI-Integrated E-Voting System
 
-A comprehensive electronic voting system built with **Streamlit** and custom **Data Structures & Algorithms** implementation.
+A comprehensive Streamlit-based e-voting system using custom DSA (Hash Tables, Trie, Segment Tree) with secure SHA-256 vote handling and real-time results.
 
 ## 📋 Overview
 
