@@ -338,7 +338,8 @@ Built with:
 
 ---
 
-**Author**
+## 👤 Author
+
 **Kishore P**
-AI & Full Stack Developer
+AI & ML Enthusiast • Full-Stack Developer
 VIT Chennai
