@@ -4,6 +4,8 @@
 
 A comprehensive Streamlit-based e-voting system using custom DSA (Hash Tables, Trie, Segment Tree) with secure SHA-256 vote handling and real-time results.
 
+---
+
 ## 📋 Overview
 
 This project demonstrates advanced DSA concepts including:
@@ -13,6 +15,8 @@ This project demonstrates advanced DSA concepts including:
 * **List + Sorting** algorithms for leaderboard ranking
 * **Segment Tree** for range queries (demo)
 * **SHA-256 hashing** for vote integrity
+
+---
 
 ## 🏗️ Architecture
 
@@ -43,6 +47,8 @@ e_voting_system/
 └── requirements.txt              # Python dependencies
 ```
 
+---
+
 ## 🚀 Installation & Setup
 
 ### Prerequisites
@@ -69,6 +75,8 @@ streamlit run app.py
 ```
 
 The application will open in your default browser at `http://localhost:8501`
+
+---
 
 ## 📖 User Guide
 
@@ -118,6 +126,8 @@ The application will open in your default browser at `http://localhost:8501`
 * Data export (CSV)
 * System controls
 
+---
+
 ## 🔧 Technical Details
 
 ### Data Structures
@@ -164,6 +174,8 @@ The application will open in your default browser at `http://localhost:8501`
 * **Auto-save:** Immediate persistence after each operation
 * **Restore:** Versioned backup restoration
 
+---
+
 ## 📊 Features
 
 ✅ **Voter Management**
@@ -198,6 +210,8 @@ The application will open in your default browser at `http://localhost:8501`
 * Data export capabilities
 * System health monitoring
 
+---
+
 ## 🎯 DSA Complexity Summary
 
 | Operation            | Data Structure    | Time Complexity | Space Complexity |
@@ -213,10 +227,14 @@ The application will open in your default browser at `http://localhost:8501`
 
 *L = length of word/string, N = number of elements*
 
+---
+
 ## 🔐 Admin Credentials
 
 * **Username:** Admin (implicit)
 * **Password:** `admin123`
+
+---
 
 ## 📝 Default Configuration
 
@@ -225,6 +243,8 @@ The application will open in your default browser at `http://localhost:8501`
 * **Votes Hash Table Size:** 500
 * **Minimum Voting Age:** 18
 * **Data Directory:** `e_voting_system/data/`
+
+---
 
 ## 🛠️ Customization
 
@@ -256,6 +276,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 ```
 
+---
+
 ## 📦 Backup & Restore
 
 ### Create Backup
@@ -272,6 +294,8 @@ st.markdown("""
 3. Select backup timestamp
 4. Click "Restore"
 5. Refresh page to see restored data
+
+---
 
 ## 🐛 Troubleshooting
 
@@ -296,6 +320,8 @@ streamlit run app.py
 pip install -r requirements.txt
 ```
 
+---
+
 ## 📚 Educational Use
 
 This project is excellent for:
@@ -305,6 +331,8 @@ This project is excellent for:
 * Studying Trie data structures
 * Exploring sorting algorithms
 * Building real-world applications with Streamlit
+
+---
 
 ## 🤝 Contributing
 
@@ -316,12 +344,16 @@ Feel free to fork and enhance:
 * Improve UI/UX
 * Add unit tests
 
+---
+
 ## 🎓 Learning Resources
 
 * **Hash Tables:** [GeeksforGeeks](https://www.geeksforgeeks.org/hashing-data-structure/)
 * **Trie:** [CP-Algorithms](https://cp-algorithms.com/string/trie.html)
 * **Time Complexity:** [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 * **Streamlit Docs:** [streamlit.io](https://docs.streamlit.io/)
+
+---
 
 ## 🙏 Acknowledgments
 
@@ -331,10 +363,6 @@ Built with:
 * **Plotly** - Interactive visualizations
 * **Python** - Core language
 * **Custom DSA** - Hand-coded data structures
-
----
-
-**Architecture:** Multi-File Modular System | **Status:** Production Ready ✅
 
 ---
 
