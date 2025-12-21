@@ -364,10 +364,3 @@ Built with:
 * **Python** - Core language
 * **Custom DSA** - Hand-coded data structures
 
----
-
-## 👤 Author
-
-**Kishore P**
-AI & ML Enthusiast • Full-Stack Developer
-VIT Chennai
